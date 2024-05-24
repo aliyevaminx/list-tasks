@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amin\\Desktop\\C#\\generic-list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEC01B-989F-4620-B058-0BA1E6FF7D1F}|..\\generic-list-task-5\\generic-list-task-5.csproj|c:\\users\\amin\\desktop\\c#\\generic-list-task-5\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEC01B-989F-4620-B058-0BA1E6FF7D1F}|..\\generic-list-task-5\\generic-list-task-5.csproj|c:\\users\\amin\\desktop\\c#\\generic-list-task-5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEC01B-989F-4620-B058-0BA1E6FF7D1F}|..\\generic-list-task-5\\generic-list-task-5.csproj|c:\\users\\amin\\desktop\\c#\\generic-list-task-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEC01B-989F-4620-B058-0BA1E6FF7D1F}|..\\generic-list-task-5\\generic-list-task-5.csproj|c:\\users\\amin\\desktop\\c#\\generic-list-task-5\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCEC01B-989F-4620-B058-0BA1E6FF7D1F}|..\\generic-list-task-5\\generic-list-task-5.csproj|c:\\users\\amin\\desktop\\c#\\generic-list-task-5\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Coffee.cs",
+              "RelativeDocumentMoniker": "..\\generic-list-task-5\\Coffee.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Coffee.cs",
+              "RelativeToolTip": "..\\generic-list-task-5\\Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:06:43.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Tea.cs",
+              "RelativeDocumentMoniker": "..\\generic-list-task-5\\Tea.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Tea.cs",
+              "RelativeToolTip": "..\\generic-list-task-5\\Tea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:05:44.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Product.cs",
+              "RelativeDocumentMoniker": "..\\generic-list-task-5\\Product.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Product.cs",
+              "RelativeToolTip": "..\\generic-list-task-5\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:02:49.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Shop.cs",
+              "RelativeDocumentMoniker": "..\\generic-list-task-5\\Shop.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Shop.cs",
+              "RelativeToolTip": "..\\generic-list-task-5\\Shop.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:02:35.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\generic-list-task-5\\Program.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\C#\\generic-list-task-5\\Program.cs",
+              "RelativeToolTip": "..\\generic-list-task-5\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:02:13.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

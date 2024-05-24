@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\generic-list-task-5\bin\Debug\net8.0\generic-list-task-5.exe
+C:\Users\Amin\Desktop\C#\generic-list-task-5\bin\Debug\net8.0\generic-list-task-5.deps.json
+C:\Users\Amin\Desktop\C#\generic-list-task-5\bin\Debug\net8.0\generic-list-task-5.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\generic-list-task-5\bin\Debug\net8.0\generic-list-task-5.dll
+C:\Users\Amin\Desktop\C#\generic-list-task-5\bin\Debug\net8.0\generic-list-task-5.pdb
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\generic-list-task-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\generic-list-task-5.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\generic-list-task-5.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\generic-list-task-5.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\generic-list-task-5.dll
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\refint\generic-list-task-5.dll
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\generic-list-task-5.pdb
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\generic-list-task-5.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\generic-list-task-5\obj\Debug\net8.0\ref\generic-list-task-5.dll
